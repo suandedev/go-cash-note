@@ -8,3 +8,7 @@ this is group of function to neto your cash payment by input little parameter.
 - report
 
 note: this just function
+
+## created
+- golang 1.19
+- testing.t
